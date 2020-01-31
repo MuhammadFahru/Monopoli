@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - monopoli_main",
+            "request": "launch",
+            "mainClass": "monopoli.monopoli_main"
+        }
+    ]
+}
